@@ -12,7 +12,7 @@ os.makedirs("data", exist_ok=True)
 
 uploaded_file = st.file_uploader(
     "Upload a document (txt, pdf, docx only for now)",
-    type=["txt", "pdf", "docx"],
+    type=["txt"],
     accept_multiple_files=False,
 )
 
