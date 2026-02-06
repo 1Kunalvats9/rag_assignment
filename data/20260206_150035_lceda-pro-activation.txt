@@ -1,0 +1,8 @@
+{
+    "username": "kunal.vats2024",
+    "customer_code": "11669333A",
+    "email": "kunal.vats2024@nst.rishihood.edu.in",
+    "phone": "",
+    "company": "",
+    "license": "dXNlcm5hbWV8Y3VzdG9tZXJfY29kZXxlbWFpbHxwaG9uZXxjb21wYW55,t0KpIbyrGnD5qNvFER5ob2DX+hh4uxZftG22qttdc0NN8E4fAL5lBoz5LdOGJwDMPiaqxXZcx2pVyipKWtMBBRoI6nKfNgKGrvUTwnIL1+ewlMPmdvC8rwE7rbPgRPaYoMoYBRRNuKP/GXFGSi1B7BTjvjIjMp60YbzPUdTzzFc="
+}

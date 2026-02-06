@@ -1,0 +1,61 @@
+Kunal Vats
+1kunalvats9@gmail.com 7878117101 LinkedIn https://www.kunalvats.codes/
+Rishihood University Sonepat Haryana, Sonipat, Haryana, 131021, India
+Professional Summary
+Recent Bachelor of Technology student in Computer Science and AI with a strong foundation in software development, data structures,
+and algorithms. Completed coursework and projects in full-stack development, backend engineering, and AI-powered semantic search
+systems. Eager to leverage analytical abilities to solve complex problems and deliver innovative software solutions that drive impact in a
+dynamic software engineering environment.
+Work Experience
+Frontend Developer – Go For Gold | Delhi Oct 2024 Oct 2024 Delhi
+– |
+Developed the Go For Gold website using React JS and Tailwind CSS, delivering a responsive platform for global learners to join the
+ICPC Bootcamp.
+Freelancer Software developer – Infeed Medias Sep 2025 Present
+–
+Responsible for software development of frontend and backend web applications, managing stakeholder relationships with clients,
+integrating secure payment gateways and REST APIs, and delivering scalable, production‑ready solutions with a focus on reliability,
+performance, and clean architecture.
+- Leveraged engineering principles in designing maintainable and efficient systems, ensuring high availability and performance through
+structured development practices and robust testing methodologies. Tested Golang backend API endpoints to validate vector
+embeddings generation and data retrieval from vector databases. Applied AI tools to optimize workflow management for less complex
+tasks and proactively sought guidance from peers and mentors to improve problem understanding and time management.
+Education
+Newton School of Technology Bachelor of Technology - BTech Computer science and AI
+Aug 2028
+Volunteer Experience
+Volunteer – GDG Rishihood University | Sonipat, Haryana, India Oct 2024
+Volunteer
+Core Skills
+python Go Golang javascript TypeScript pandas Computer Science numpy node.js qdrant Express.js Swift (Programming
+, , , , , , , , , , ,
+Language) SwiftUI nativewind Next.js Databases Tailwind CSS Git GitHub Data Visualization CS Data Structures & Algorithms
+, , , , , , , , , ,
+Projects
+Go For Gold Oct 2024 Oct 2024
+–
+During this journey I contributed in the development of the website for Go For Gold, ICPC Bootcamp. This was an amazing journey, we
+developed this website using React JS and Tailwind CSS for the learners across the globe to become a part of this bootcamp.
+Dory Oct 2024 Present
+–
+Built a high-performance Golang-based RAG backend enabling students to query PDFs and notes using semantic search, vector
+databases, and LLMs, featuring secure multi-tenancy, concurrent ingestion, event detection, and production-ready cloud deployment.
+Applied core computer science concepts such as Hash Maps for metadata caching to optimize user session lookups, Arrays & Slices
+for vector representation and cosine similarity calculations in semantic search, Trees for recursive document chunking preserving
+context, and Concurrent Queues with Goroutines and Channels to implement a worker pool ensuring scalable and crash-resistant
+PDF processing under high concurrency.
+Applied strong problem-solving skills to independently identify, analyze, and resolve technical bottlenecks in backend systems,
+improving query accuracy and system reliability for student-facing learning tools.
+Movie Recommendation System Dec 2025 Dec 2025
+–
+Developed a Netflix-style recommendation system using Python ML, vectorization, and cosine similarity to generate personalized
+movie suggestions, exposing the model via FastAPI and integrating it into a SwiftUI-based mobile application.
+Dory Swift Application 01/2023
+Developed a SwiftUI app featuring a modern Glassmorphism UI and smooth animations, delivering a polished, real-time chat interface
+for AI-powered querying of PDFs and notes. Integrated seamlessly with a high-performance Golang RAG backend that supports
+semantic search using vector databases and LLMs. Engineered secure multi-tenancy, concurrent PDF ingestion, and event-driven
+processing to ensure scalability and reliability. Applied advanced computer science concepts including hash maps for caching, vector
+operations for semantic similarity, tree-based recursive document chunking, and goroutine-based worker pools to optimize
+concurrency and system performance under heavy load.
+Languages
+Hindi (Mother Tongue) English (Fluent),
